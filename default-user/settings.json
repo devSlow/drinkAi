@@ -1022,7 +1022,7 @@
         "function_calling": false,
         "names_behavior": 0,
         "continue_postfix": " ",
-        "custom_prompt_post_processing": "",
+        "custom_prompt_post_processing": "merge",
         "show_thoughts": false,
         "seed": -1,
         "n": 1
