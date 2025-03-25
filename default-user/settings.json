@@ -990,7 +990,7 @@
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
         "custom_model": "claude-3-5-haiku,claude-3-5-sonnet,claude-3-opus,command-r-plus,deepseek-v3,gemini-1-5-flash,gemini-1-5-pro,gemini-2-flash,gemini-2-thinking,gpt-4-turbo,gpt-4o,gpt-4o-mini,llama-3-1,llama-3-3,mistral-large-2,nova-lite,nova-pro,o1-mini,o1-preview",
-        "custom_url": "http://www3.ldo.pics/v1",
+        "custom_url": "https://opus.gptuu.com",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
