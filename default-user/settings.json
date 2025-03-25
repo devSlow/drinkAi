@@ -453,7 +453,7 @@
                     "preset": "Default",
                     "model": "gpt-4-turbo",
                     "proxy": "None",
-                    "name": "openai gpt-4-turbo - Default"
+                    "name": "Chat Completion"
                 }
             ]
         },
