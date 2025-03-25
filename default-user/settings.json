@@ -989,7 +989,7 @@
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "AIDC-AI/Marco-o1",
+        "custom_model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
         "custom_url": "https://api.siliconflow.cn/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
