@@ -994,7 +994,7 @@
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "google/gemini-2.0-flash-exp",
+        "custom_model": "grok-3-mini-beta",
         "custom_url": "https://voapi.killerbest.com/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
