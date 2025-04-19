@@ -448,7 +448,7 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "",
+            "selectedProfile": "c21285a9-567f-449b-8974-eab48cddcf5b",
             "profiles": [
                 {
                     "id": "c21285a9-567f-449b-8974-eab48cddcf5b",
@@ -1009,7 +1009,7 @@
         "openrouter_middleout": "on",
         "jailbreak_system": false,
         "reverse_proxy": "",
-        "chat_completion_source": "custom",
+        "chat_completion_source": "openai",
         "max_context_unlocked": false,
         "api_url_scale": "",
         "show_external_models": false,
