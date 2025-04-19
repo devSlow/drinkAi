@@ -448,20 +448,8 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "8bdf6984-c0c6-4b2c-a5f1-107ca4b59dff",
-            "profiles": [
-                {
-                    "id": "8bdf6984-c0c6-4b2c-a5f1-107ca4b59dff",
-                    "mode": "cc",
-                    "exclude": [],
-                    "api": "custom",
-                    "preset": "Default",
-                    "api-url": "https://voapi.killerbest.com/v1",
-                    "model": "grok-3-mini-beta",
-                    "proxy": "None",
-                    "name": "custom grok-3-mini-beta - Default"
-                }
-            ]
+            "selectedProfile": null,
+            "profiles": []
         },
         "dice": {},
         "regex": [],
