@@ -448,19 +448,8 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "c21285a9-567f-449b-8974-eab48cddcf5b",
-            "profiles": [
-                {
-                    "id": "c21285a9-567f-449b-8974-eab48cddcf5b",
-                    "mode": "cc",
-                    "exclude": [],
-                    "api": "openai",
-                    "preset": "Default",
-                    "model": "gpt-4-turbo",
-                    "proxy": "None",
-                    "name": "Chat Completion"
-                }
-            ]
+            "selectedProfile": null,
+            "profiles": []
         },
         "dice": {},
         "regex": [],
